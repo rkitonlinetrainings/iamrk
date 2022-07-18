@@ -3,8 +3,8 @@ import { context } from "../context/context";
 import AnimatedText from "./AnimatedText";
 
 const homeData = {
-  firstName: "David",
-  lastName: "Parker",
+  firstName: "Rama",
+  lastName: "Krishna",
   skills: ["Designer", "Developer", "Freelancer"],
 };
 

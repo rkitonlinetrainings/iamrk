@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iamrk-dev-220005-authRole",
+      "UnauthRoleArn": "arn:aws:iam::726720392006:role/amplify-iamrk-dev-220005-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::726720392006:role/amplify-iamrk-dev-220005-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-iamrk-dev-220005-deployment",
+      "UnauthRoleName": "amplify-iamrk-dev-220005-unauthRole",
+      "StackName": "amplify-iamrk-dev-220005",
+      "StackId": "arn:aws:cloudformation:ap-south-1:726720392006:stack/amplify-iamrk-dev-220005/b6cab780-05ed-11ed-9ee9-0a72a02a7130",
+      "AmplifyAppId": "d3gkgq4mgjbbnf"
+    }
+  }
+}
